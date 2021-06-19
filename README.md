@@ -6,9 +6,7 @@
 <table align="center">
 	<tr>
 		<td align="center">
-			<pre>
-				Intra ID: 83781
-			</pre>
+			Intra ID: 83781
 		</td>
 	</tr>
 </table>
