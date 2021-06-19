@@ -10,3 +10,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3b5aw&layout=compact&theme=dracula">
 </p>
+
+<p align="center">
+  42 Intra ID: 83781
+</p>
