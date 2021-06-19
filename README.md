@@ -11,6 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3b5aw&layout=compact&theme=dracula">
 </p>
 
-<p align="center">
+<p align="center" style="font-weight:bold">
   42 Intra ID: 83781
 </p>
