@@ -8,6 +8,9 @@
 <table align="center">
 	<tr>
 		<td align="center">
+			@42School	
+		</td>
+		<td align="center">
 			Intra ID: 83781
 		</td>
 		<td align="center">
