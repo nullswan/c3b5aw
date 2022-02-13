@@ -10,6 +10,9 @@
 		<td align="center">
 			Intra ID: 83781
 		</td>
+		<td align="center">
+			LVL: 9.21
+		</td>
 	</tr>
 </table>
 
