@@ -1,8 +1,8 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="60" height="60" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" alt="golang" width="60" height="60" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="60" height="60" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="60" height="60" />
+	<img alt="python-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+	<img alt="go-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+	<img alt="c-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+	<img alt="c++-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
 <table align="center">
@@ -18,7 +18,6 @@
 		</td>
 	</tr>
 </table>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c3b5aw&count_private=true&show_icons=true&theme=dracula&exclude_repo=42">
