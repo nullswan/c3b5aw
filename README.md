@@ -14,7 +14,7 @@
 			Intra ID: 83781
 		</td>
 		<td align="center">
-			LVL: 12.67
+			LVL: 13.22
 		</td>
 	</tr>
 </table>
