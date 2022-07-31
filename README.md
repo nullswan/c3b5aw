@@ -1,8 +1,12 @@
 <p align="center">
 	<img alt="python-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 	<img alt="go-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-	<img alt="c-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 	<img alt="c++-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</p>
+
+<p align="center">
+	<img alt="ts-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+	<img alt="rust-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </p>
 
 <table align="center">
