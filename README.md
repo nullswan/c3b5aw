@@ -4,11 +4,6 @@
 	<img alt="c++-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
-<p align="center">
-	<img alt="ts-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-	<img alt="rust-logo" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-</p>
-
 <table align="center">
 	<tr>
 		<td align="center">
